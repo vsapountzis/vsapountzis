@@ -3,6 +3,7 @@
 - 📝 Developing in Python and PHP for WordPress, Shopify and other custom API related projects
 - 📚 Currently learning API Prototyping, ML, Flutter and a bit of DevOps
 - 🧑‍💻 Tech Enthusiast
+- 👨‍👩‍👦‍👦 Father of twin boys and husband
 - ☕ Coffee lover
 
 
