@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vangelis from Rhodes 🏝️ in Greece 🇬🇷
-- 💼 Experienced web engineer and solutions-oriented consultant
+- 💼 Experienced software engineer and solutions-oriented consultant
 - 📝 Developing in Python and PHP for WordPress, Shopify and other custom API related projects
 - 📚 Currently learning API Prototyping, ML, Data Analytics, Flutter and a bit of DevOps
-- 🧑‍💻 Tech Enthusiast
+- 🧑‍💻 Tech & IT Enthusiast
 - 👨‍👩‍👦‍👦 Father of twin boys and husband
 - ☕ Coffee lover
 
